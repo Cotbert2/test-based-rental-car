@@ -1,0 +1,12 @@
+{
+  "name": "test-based-rental-car",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cotbert2/test-based-rental-car.git",
+  "author": "Cotbert2 <mateojgdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
